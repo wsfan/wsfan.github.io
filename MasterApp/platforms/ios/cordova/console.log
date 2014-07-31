@@ -83,3 +83,25 @@ Terminating in response to SpringBoard's termination.
 2014-07-31 15:14:03.052 MasterApp[28874:90b] 134
 2014-07-31 15:14:03.053 MasterApp[28874:90b] Touch distance 1340
 2014-07-31 15:14:03.381 MasterApp[28874:90b] 480 300
+2014-07-31 15:24:16.677 MasterApp[29422:90b] Multi-tasking -> Device: YES, App: YES
+2014-07-31 15:24:17.214 MasterApp[29422:90b] Unlimited access to network resources
+2014-07-31 15:24:21.310 MasterApp[29422:90b] [CDVTimer][keyboard] 44.910014ms
+2014-07-31 15:24:21.332 MasterApp[29422:90b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-31 15:24:21.333 MasterApp[29422:90b] [CDVTimer][statusbar] 0.864983ms
+2014-07-31 15:24:21.334 MasterApp[29422:90b] [CDVTimer][TotalPluginStartup] 69.440007ms
+2014-07-31 15:24:23.949 MasterApp[29422:90b] Resetting plugins due to page load.
+2014-07-31 15:24:30.701 MasterApp[29422:90b] Finished load of: file:///Users/Wan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/91C90D3B-3103-4298-9D90-A1ACC41B31BA/MasterApp.app/www/index.html
+2014-07-31 15:24:32.160 MasterApp[29422:90b] 116
+2014-07-31 15:24:32.161 MasterApp[29422:90b] Touch distance 1160
+2014-07-31 15:24:32.446 MasterApp[29422:90b] 58
+2014-07-31 15:24:32.447 MasterApp[29422:90b] Touch distance 580
+2014-07-31 15:24:32.701 MasterApp[29422:90b] 480 300
+2014-07-31 15:24:32.744 MasterApp[29422:90b] 480 300
+2014-07-31 15:34:50.176 MasterApp[29731:90b] Multi-tasking -> Device: YES, App: YES
+2014-07-31 15:34:50.198 MasterApp[29731:90b] Unlimited access to network resources
+2014-07-31 15:34:50.415 MasterApp[29731:90b] [CDVTimer][keyboard] 0.091016ms
+2014-07-31 15:34:50.416 MasterApp[29731:90b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-31 15:34:50.416 MasterApp[29731:90b] [CDVTimer][statusbar] 0.519991ms
+2014-07-31 15:34:50.417 MasterApp[29731:90b] [CDVTimer][TotalPluginStartup] 1.735985ms
+2014-07-31 15:34:50.586 MasterApp[29731:90b] Resetting plugins due to page load.
+2014-07-31 15:34:54.310 MasterApp[29731:90b] Finished load of: file:///Users/Wan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/91C90D3B-3103-4298-9D90-A1ACC41B31BA/MasterApp.app/www/index.html
