@@ -1,0 +1,85 @@
+2014-07-31 12:05:19.380 MasterApp[25184:90b] Multi-tasking -> Device: YES, App: YES
+2014-07-31 12:05:19.390 MasterApp[25184:90b] Unlimited access to network resources
+2014-07-31 12:05:19.417 MasterApp[25184:90b] [CDVTimer][keyboard] 0.090003ms
+2014-07-31 12:05:19.418 MasterApp[25184:90b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-31 12:05:19.418 MasterApp[25184:90b] [CDVTimer][statusbar] 0.510037ms
+2014-07-31 12:05:19.419 MasterApp[25184:90b] [CDVTimer][TotalPluginStartup] 1.748979ms
+2014-07-31 12:05:20.422 MasterApp[25184:90b] Resetting plugins due to page load.
+2014-07-31 12:05:22.266 MasterApp[25184:90b] Finished load of: file:///Users/Wan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/91C90D3B-3103-4298-9D90-A1ACC41B31BA/MasterApp.app/www/index.html#/app/playlists
+Terminating in response to SpringBoard's termination.
+2014-07-31 12:23:30.020 MasterApp[25660:90b] Multi-tasking -> Device: YES, App: YES
+2014-07-31 12:23:30.034 MasterApp[25660:90b] Unlimited access to network resources
+2014-07-31 12:23:30.157 MasterApp[25660:90b] [CDVTimer][keyboard] 0.097990ms
+2014-07-31 12:23:30.167 MasterApp[25660:90b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-31 12:23:30.169 MasterApp[25660:90b] [CDVTimer][statusbar] 2.265990ms
+2014-07-31 12:23:30.170 MasterApp[25660:90b] [CDVTimer][TotalPluginStartup] 12.761950ms
+2014-07-31 12:23:30.407 MasterApp[25660:90b] Resetting plugins due to page load.
+2014-07-31 12:23:31.056 MasterApp[25660:90b] Finished load of: file:///Users/Wan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/91C90D3B-3103-4298-9D90-A1ACC41B31BA/MasterApp.app/www/index.html#/app/playlists
+2014-07-31 12:30:09.922 MasterApp[26087:90b] Multi-tasking -> Device: YES, App: YES
+2014-07-31 12:30:09.940 MasterApp[26087:90b] Unlimited access to network resources
+2014-07-31 12:30:09.966 MasterApp[26087:90b] [CDVTimer][keyboard] 0.096023ms
+2014-07-31 12:30:09.973 MasterApp[26087:90b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-31 12:30:09.985 MasterApp[26087:90b] [CDVTimer][statusbar] 11.227965ms
+2014-07-31 12:30:09.985 MasterApp[26087:90b] [CDVTimer][TotalPluginStartup] 19.204021ms
+2014-07-31 12:30:10.205 MasterApp[26087:90b] Resetting plugins due to page load.
+2014-07-31 12:30:10.534 MasterApp[26087:90b] Finished load of: file:///Users/Wan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/91C90D3B-3103-4298-9D90-A1ACC41B31BA/MasterApp.app/www/index.html#/app/playlists
+2014-07-31 12:30:59.666 MasterApp[26294:90b] Multi-tasking -> Device: YES, App: YES
+2014-07-31 12:30:59.677 MasterApp[26294:90b] Unlimited access to network resources
+2014-07-31 12:30:59.725 MasterApp[26294:90b] [CDVTimer][keyboard] 0.095010ms
+2014-07-31 12:30:59.726 MasterApp[26294:90b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-31 12:30:59.728 MasterApp[26294:90b] [CDVTimer][statusbar] 2.186000ms
+2014-07-31 12:30:59.729 MasterApp[26294:90b] [CDVTimer][TotalPluginStartup] 4.186034ms
+2014-07-31 12:30:59.951 MasterApp[26294:90b] Resetting plugins due to page load.
+2014-07-31 12:31:00.715 MasterApp[26294:90b] Finished load of: file:///Users/Wan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/91C90D3B-3103-4298-9D90-A1ACC41B31BA/MasterApp.app/www/index.html#/app/playlists
+2014-07-31 12:32:26.561 MasterApp[26520:90b] Multi-tasking -> Device: YES, App: YES
+2014-07-31 12:32:26.610 MasterApp[26520:90b] Unlimited access to network resources
+2014-07-31 12:32:26.659 MasterApp[26520:90b] [CDVTimer][keyboard] 0.095010ms
+2014-07-31 12:32:26.661 MasterApp[26520:90b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-31 12:32:26.661 MasterApp[26520:90b] [CDVTimer][statusbar] 0.841022ms
+2014-07-31 12:32:26.662 MasterApp[26520:90b] [CDVTimer][TotalPluginStartup] 2.906024ms
+2014-07-31 12:32:26.932 MasterApp[26520:90b] Resetting plugins due to page load.
+2014-07-31 12:32:27.564 MasterApp[26520:90b] Finished load of: file:///Users/Wan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/91C90D3B-3103-4298-9D90-A1ACC41B31BA/MasterApp.app/www/index.html#/app/playlists
+2014-07-31 15:11:27.875 MasterApp[28640:90b] Multi-tasking -> Device: YES, App: YES
+2014-07-31 15:11:27.922 MasterApp[28640:90b] Unlimited access to network resources
+2014-07-31 15:11:28.507 MasterApp[28640:90b] [CDVTimer][keyboard] 0.119984ms
+2014-07-31 15:11:28.507 MasterApp[28640:90b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-31 15:11:28.508 MasterApp[28640:90b] [CDVTimer][statusbar] 0.569046ms
+2014-07-31 15:11:28.509 MasterApp[28640:90b] [CDVTimer][TotalPluginStartup] 2.007961ms
+2014-07-31 15:11:28.974 MasterApp[28640:90b] Resetting plugins due to page load.
+2014-07-31 15:11:48.018 MasterApp[28640:90b] Finished load of: file:///Users/Wan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/91C90D3B-3103-4298-9D90-A1ACC41B31BA/MasterApp.app/www/index.html
+2014-07-31 15:11:48.078 MasterApp[28640:90b] WARNING: Tried to load angular more than once.
+2014-07-31 15:11:48.078 MasterApp[28640:90b] deviceready has not fired after 5 seconds.
+2014-07-31 15:11:48.079 MasterApp[28640:90b] Channel not fired: onDOMContentLoaded
+2014-07-31 15:11:48.079 MasterApp[28640:90b] [null]
+2014-07-31 15:11:48.079 MasterApp[28640:90b] ERROR: getControllers@file:///Users/Wan/Library/Application<ion-nav-buttons side="left">0Support/iPhone%20Simulator/7.1/Applications/91C90D3B-3103-4298-9D90-A1ACC41B31BA/MasterApp.app/www/lib/ionic/js/ionic.bundle.js:15469:40
+2014-07-31 15:11:48.079 MasterApp[28640:90b] 480 300
+2014-07-31 15:11:58.602 MasterApp[28640:90b] 124
+2014-07-31 15:11:58.603 MasterApp[28640:90b] Touch distance 1240
+2014-07-31 15:11:58.889 MasterApp[28640:90b] 480 300
+2014-07-31 15:12:13.362 MasterApp[28640:90b] 144
+2014-07-31 15:12:13.363 MasterApp[28640:90b] Touch distance 1440
+2014-07-31 15:12:13.486 MasterApp[28640:90b] 480 300
+2014-07-31 15:12:13.509 MasterApp[28640:90b] 480 300
+2014-07-31 15:12:20.747 MasterApp[28640:90b] 144
+2014-07-31 15:12:20.748 MasterApp[28640:90b] Touch distance 1440
+2014-07-31 15:12:21.263 MasterApp[28640:90b] 143
+2014-07-31 15:12:21.264 MasterApp[28640:90b] Touch distance 1430
+2014-07-31 15:12:21.397 MasterApp[28640:90b] 480 300
+2014-07-31 15:12:21.411 MasterApp[28640:90b] 480 300
+2014-07-31 15:13:51.469 MasterApp[28874:90b] Multi-tasking -> Device: YES, App: YES
+2014-07-31 15:13:51.723 MasterApp[28874:90b] Unlimited access to network resources
+2014-07-31 15:13:52.041 MasterApp[28874:90b] [CDVTimer][keyboard] 50.969958ms
+2014-07-31 15:13:52.042 MasterApp[28874:90b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-31 15:13:52.043 MasterApp[28874:90b] [CDVTimer][statusbar] 0.683010ms
+2014-07-31 15:13:52.043 MasterApp[28874:90b] [CDVTimer][TotalPluginStartup] 53.568959ms
+2014-07-31 15:13:54.720 MasterApp[28874:90b] Resetting plugins due to page load.
+2014-07-31 15:14:00.568 MasterApp[28874:90b] Finished load of: file:///Users/Wan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/91C90D3B-3103-4298-9D90-A1ACC41B31BA/MasterApp.app/www/index.html
+2014-07-31 15:14:00.661 MasterApp[28874:90b] WARNING: Tried to load angular more than once.
+2014-07-31 15:14:00.662 MasterApp[28874:90b] [null]
+2014-07-31 15:14:00.662 MasterApp[28874:90b] ERROR: getControllers@file:///Users/Wan/Library/Application<ion-nav-buttons side="left">0Support/iPhone%20Simulator/7.1/Applications/91C90D3B-3103-4298-9D90-A1ACC41B31BA/MasterApp.app/www/lib/ionic/js/ionic.bundle.js:15469:40
+2014-07-31 15:14:00.662 MasterApp[28874:90b] 480 300
+2014-07-31 15:14:01.886 MasterApp[28874:90b] 70
+2014-07-31 15:14:01.886 MasterApp[28874:90b] Touch distance 700
+2014-07-31 15:14:03.052 MasterApp[28874:90b] 134
+2014-07-31 15:14:03.053 MasterApp[28874:90b] Touch distance 1340
+2014-07-31 15:14:03.381 MasterApp[28874:90b] 480 300
